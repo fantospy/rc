@@ -1,0 +1,18 @@
+[user]
+	name = laurentm
+[color]
+	branch = auto
+	status = auto
+	diff = auto
+[alias]
+        co = commit
+        ch = checkout
+        st = status
+        br = branch
+        mr = merge
+        hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+        type = cat-file -t
+        dump = cat-file -p
+
+[core]
+        excludesfile = /Users/laurent/.gitignore 

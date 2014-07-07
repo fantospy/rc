@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectPreferences>
+<DefaultUser>laurentm</DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint>BE9C36EC6A0341B7C19D17E10EC2A80D11ABB20E</ClientCertificateThumbprint>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHostName>sslvpn.ethz.ch/</DefaultHostName>
+<DefaultHostAddress></DefaultHostAddress>
+<DefaultGroup>ETHZ</DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType>none</SDITokenType>
+<ControllablePreferences>
+<AutoConnectOnStart>false</AutoConnectOnStart></ControllablePreferences>
+</AnyConnectPreferences>

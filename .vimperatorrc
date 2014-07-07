@@ -1,0 +1,23 @@
+"3.8.2 (created: 2014/02/13 23:52:43)
+
+source! /Users/laurent/.vimperatorrc.local
+
+" vim: set ft=vimperator:
+:set hintchars=asdfhjkl
+":noremap j 3j
+":noremap k 3k
+
+:highlight HintElem background-color:none;
+:hi Hint::after -append font-size: 9pt;font-weight:normal;
+":highlight Hint append font-size:10pt;color:black;background-color:yellow;font-weight:normal;
+":highlight Hint font-size:10pt;
+nore ; :
+nore , ;
+nore gt s
+nore s gt
+nore gT a
+nore a gT
+
+"TEST"
+":highlight Hint font-size:90%;color:black;background-color:yellow;padding:2px;
+"set complete=sb or bh

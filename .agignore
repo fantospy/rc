@@ -1,0 +1,10 @@
+IF2D_ROCKS.xcodeproj
+benchmarks
+tbb
+mani-fmm2d
+matlab
+run*
+*/*.o
+
+# For file
+#*/*.vtu
